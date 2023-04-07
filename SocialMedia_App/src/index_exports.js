@@ -1,0 +1,9 @@
+export { default as Navbar } from "./Component/navbar/Navbar"
+export { default as Login } from "./pages/login/Login"
+export { default as Register } from "./pages/register/Register"
+export { default as Home } from "./pages/home/Home"
+export { default as ProtectedRoutes } from './Component/ProtectedRoute/ProtectedRoute'
+export { default as Profile } from "./pages/profile/Profile";
+export { default as Leftbar } from "./Component/leftbar/Leftbar";
+export { default as Rigthbar } from "./Component/rigthbar/Rigthbar";
+export { default as Outlet } from "./Component/Outlet/Outlet";
